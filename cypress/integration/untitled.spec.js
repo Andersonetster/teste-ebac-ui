@@ -1,4 +1,4 @@
-// teste.spec.js created with Cypress
+// untitled.spec.js created with Cypress
 //
 // Start writing your Cypress tests below!
 // If you're unfamiliar with how Cypress works,
