@@ -15,11 +15,11 @@ describe('funcionalidade pagina de produtos', () => {
             .click()
 
         })
-    it.only('deve adicionar o produto ao carrinho' , () =>{
+    it('deve adicionar o produto ao carrinho' , () =>{
 
         var quantidade =3  
         cy.get('[class="product-block grid"]')
-            .contains('Apollo Running Short').click()
+            .contains('Abominable Hoodie').click()
 
         cy.get('.button-variable-item-36').click()
         cy.get(':nth-child(2) > .value > .variable-items-wrapper > .variable-item').click()
@@ -29,6 +29,12 @@ describe('funcionalidade pagina de produtos', () => {
 
 
     })
+
+    it.only('deve adicionar produtos ao carrinhos usando comando customizados', () => {
+        cy.addProdutos('Abominable Hoodie', 'XS', 'Blue', '4')
+       
+        
+    });
     
     
 });
