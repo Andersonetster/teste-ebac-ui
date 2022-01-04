@@ -1,0 +1,45 @@
+[
+    {
+        "nome": "Anderson",
+        "sobrenome":"Santos",
+        "empresa":"andersonexpress",
+        "endereco":"ione do bem",
+        "numero":"318",
+        "pais":"Brasil",
+        "cidade":"serrana",
+        "estado":"São Paulo",
+        "cep":"14150000",
+        "telefone":"11966100429",
+        "email":"anderson.netster2012@gmail.com"
+    },
+
+    {
+        "nome": "fernanda",
+        "sobrenome":"silva",
+        "empresa":"fernandaexpress",
+        "endereco":"adriano stuart",
+        "numero":"3",
+        "pais":"Brasil",
+        "cidade":"São Paulo",
+        "estado":"São Paulo",
+        "cep":"05280100",
+        "telefone":"11966414151",
+        "email":"fernanda@gmail.com"
+    },
+
+    {
+        "nome": "Dayane",
+        "sobrenome":"Santos",
+        "empresa":"dayaneexpress",
+        "endereco":"ione do bem",
+        "numero":"318",
+        "pais":"Brasil",
+        "cidade":"serrana",
+        "estado":"São Paulo",
+        "cep":"14150000",
+        "telefone":"11966100429",
+        "email":"dayane@gmail.com"
+    }
+
+
+]
